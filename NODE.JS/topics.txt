@@ -1,0 +1,58 @@
+node js important topics 
+
+1. Foundation
+
+Focusng on Node internals and its working
+Libuv, threads, processes, event loop
+Asynchronous programming
+
+2. Module System
+
+The require Function
+Creating Your Own Modules
+CommonJS vs ECMAScript (ES6) modules
+Module Caching
+Using index.js
+
+3. Package Management and dependecy management
+
+NPM: The Node Package Manager
+Creating Your Own Packages
+Package And the NPM Registry
+Third Party Modules
+The node_modules Folder
+Semantic Versioning
+Package-lock.json And Versioning
+Vulnerabilities in Dependencies
+
+4. File System , Streams and Buffers
+
+5. clustering in node js
+
+6. Express.js
+Route Parameters
+Model View Controller (MVC) pattern and routing 
+Development Dependencies
+Middleware
+RESTful APIs
+
+7.Basics of mongoose orm 
+
+8.Basics of sequalize orm
+
+9.Using PM2
+
+10. Authentication and Security in node JS (JWT and Oauth)
+  
+11.SSl tls and http https http2 modules   
+
+12. Sockets (WebSockets, Socket io)
+Sockets overview polling WebSockets (vs Socket io) and its basic concepts 
+
+13. Testing the node js Applications 
+    jasmine mocha chai and cucumber 
+
+                       SERVERSLESS FRAMEWORK IMPORTANT topics
+
+
+                       
